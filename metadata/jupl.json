@@ -1,1 +1,13 @@
+{
+  "name": "JupLite",
+  "symbol": "JUPL",
+  "mint": "DJTPLZkPhN7zpJNBcJuVLd6ksS8iryZeif6S3NtKrnQp",
+  "decimals": 6,
+  "description": "JupLite (JUPL) is the official utility token of the JupLite ecosystem on Solana.",
+  "website": "https://juplite.com",
+  "explorer": "https://solscan.io/token/DJTPLZkPhN7zpJNBcJuVLd6ksS8iryZeif6S3NtKrnQp",
+  "logo": "https://raw.githubusercontent.com/gennadii-TIME/juplite-token/main/logo/logo-256.png",
+  "twitter": "",
+  "telegram": ""
+}
 
