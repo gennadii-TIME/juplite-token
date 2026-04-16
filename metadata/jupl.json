@@ -1,14 +1,14 @@
 {
   "name": "JupLite",
   "symbol": "JUPL",
-  "mint": "Co8F8pVsYNpKzN7SDtuBtX7Rk7qJ3B2dBs9NpAMYy4J3",
-  "decimals": 6,
-  "description": "JupLite (JUPL) is an AI-powered trading tool on Solana that analyzes on-chain data to help users discover trading opportunities and make faster, more informed decisions.",
-  "website": "https://juplite.com",
-  "explorer": "https://solscan.io/token/Co8F8pVsYNpKzN7SDtuBtX7Rk7qJ3B2dBs9NpAMYy4J3",
-  "logo": "https://raw.githubusercontent.com/gennadii-TIME/juplite-token/main/logo/logo-256.png",
-  "twitter": "https://x.com/juplite_solana",
-  "telegram": "https://t.me/juplite",
-  "tiktok": "https://www.tiktok.com/@juplite",
-  "instagram": "https://www.instagram.com/juplite_"
+  "description": "JupLite (JUPL) is an AI-powered trading tool on Solana that analyzes on-chain data to help users discover trading opportunities and make faster, more informed trading decisions.",
+  "image": "https://raw.githubusercontent.com/gennadii-TIME/juplite-token/main/logo/logo-256.png",
+  "external_url": "https://juplite.com",
+  "extensions": {
+    "website": "https://juplite.com",
+    "twitter": "https://x.com/juplite_solana",
+    "telegram": "https://t.me/juplite",
+    "instagram": "https://www.instagram.com/juplite_",
+    "tiktok": "https://www.tiktok.com/@juplite"
+  }
 }
